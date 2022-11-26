@@ -135,7 +135,7 @@ class vs_friend:
 def shows_error():
     yesno = msg.askyesno('tic tac toe', "this feature doesn't work here. you must download the game to open this feautrue.\ndo you want to download it?")
     if yesno:
-        web.open('https://github.com/mzo0z/tictactoe')
+        web.open('https://github.com/mzo0z/xo')
 
 def v_friend():
     global player_name
