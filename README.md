@@ -1,4 +1,5 @@
 # tic tac toe
+مسابفة الحاسوب
 
 <img src="https://cdn.discordapp.com/avatars/901111890300796938/a89994be1b1803ba0995d5c56321af80.png">
 
